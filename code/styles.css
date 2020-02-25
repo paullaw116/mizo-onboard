@@ -1,0 +1,29 @@
+// styles.css
+@font-face {
+  font-family: "Apercu pro";
+  src: url("https://uploads-ssl.webflow.com/5d1504202c2ac76bc18c8c67/5d15669ce1f6afdc65e9e0e0_apercu_regular_italic_pro.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Apercu pro";
+  src: url("https://uploads-ssl.webflow.com/5d1504202c2ac76bc18c8c67/5d1566926b9fd41e9664bbaf_apercu_regular_pro.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Apercu pro";
+  src: url("https://uploads-ssl.webflow.com/5d1504202c2ac76bc18c8c67/5d15666a6b9fd4f5fd64bb50_apercu_medium_pro.otf")
+    format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Apercu pro";
+  src: url("https://uploads-ssl.webflow.com/5d1504202c2ac76bc18c8c67/5d1566556b9fd4160664bb4a_apercu_bold_pro.otf")
+    format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}

@@ -1,0 +1,24 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-iphone-xs-spacegrey": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "e2721a3b-a110-44bf-beac-28d4b2294317"
+	},
+	"author": "Paul Lawrence",
+	"dependencies": {
+		"@framer/jordanframer.font-files": "^1.14.0",
+		"@framer/kasimir.iphone-x-kit": "^1.21.0",
+		"@framer/krijn.loading-indicators": "^1.5.0",
+		"@framer/lawp.mizo-design-library": "^1.10.0",
+		"@framer/martiankid.mobile-keyboard": "^1.4.0",
+		"react-lottie": "^1.2.3"
+	}
+}
